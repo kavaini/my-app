@@ -262,7 +262,7 @@ class App extends Component {
           <div className="row">
             <h2 className="title ui icon header">
               <i className="paper plane icon"></i>
-              <div class="content">Resume Builder App</div>
+              <div class="content">The Odin Project - CV Aplication</div>
             </h2>
           </div>
           <div className="ui large buttons choices">
@@ -301,7 +301,7 @@ class App extends Component {
           />
           <div className="mainContent">
             <div className="sectionHeader ui medium header">
-              WORK EXPERIENCES
+              WORK EXPERIENCE
             </div>
             <ExperienceNEducation
               previewModeStatus={previewModeStatus}
