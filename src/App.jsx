@@ -261,8 +261,7 @@ class App extends Component {
         <div className="ui grid">
           <div className="row">
             <h2 className="title ui icon header">
-              <i className="paper plane icon"></i>
-              <div class="content">The Odin Project - CV Aplication</div>
+              <div className="content">The Odin Project - CV Aplication</div>
             </h2>
           </div>
           <div className="ui large buttons choices">
