@@ -1,3 +1,5 @@
+import React from "react";
+
 const SkillsItem = (props) => {
   const { itemStor, itemAddStatus, deleteInputVal, previewModeStatus } = props;
   return (
